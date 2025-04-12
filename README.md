@@ -1,2 +1,28 @@
-# Ask-Your-Database-Gemini-Powered-SQL-Query-App
-This project is an AI-powered web application that converts natural language questions into SQL queries using Google's Gemini 1.5 Pro model. Built with Streamlit, the app allows users to interact with a SQLite database without writing a single line of SQL.
+
+# 🤖 Ask-Your-Database-Gemini-Powered-SQL-Query-App 📊
+
+Welcome to the **Gemini SQL Query Generator App** – an AI-powered tool that converts natural language questions into SQL queries and retrieves results from a SQLite database using a clean Streamlit interface.
+
+---
+
+## 🌟 Features
+
+✅ Convert English questions to SQL automatically  
+✅ Execute queries on a local `student.db` SQLite database  
+✅ Get instant answers without writing SQL  
+✅ Clean, simple Streamlit UI  
+✅ Powered by **Google Gemini 1.5 Pro**
+
+---
+
+## 🧠 Tech Stack
+
+- 🐍 Python
+- 🧵 Streamlit
+- 🗃️ SQLite
+- 🔑 Google Generative AI (Gemini)
+- 🔐 dotenv (for API key handling)
+
+---
+
+
